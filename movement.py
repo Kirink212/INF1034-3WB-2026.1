@@ -1,0 +1,1 @@
+print("Arquivo que possui a lógica de movimentação do personagem")
